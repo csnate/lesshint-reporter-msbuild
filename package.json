@@ -1,0 +1,32 @@
+{
+    "name": "lesshint-reporter-msbuild",
+    "version": "1.0.0",
+    "description": "MSBuild reporter for lesshint",
+    "main": "index.js",
+    "scripts": {
+        "test": "gulp"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/csnate/lesshint-reporter-msbuild.git"
+    },
+    "keywords": [
+        "reporter",
+        "lesshint",
+        "msbuild"
+    ],
+    "author": {
+        "name": "csnate"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/csnate/lesshint-reporter-msbuild/issues"
+    },
+    "homepage": "https://github.com/csnate/lesshint-reporter-msbuild#readme",
+    "devDependencies": {
+        "chai": "4.1.0",
+        "gulp": "3.9.1",
+        "gulp-mocha": "4.3.1",
+        "sinon": "2.3.8"
+    }
+}
