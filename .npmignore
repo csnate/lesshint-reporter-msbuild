@@ -1,0 +1,5 @@
+.gitattributes
+.gitignore
+.travis.yml
+gulpfile.js
+test.js
