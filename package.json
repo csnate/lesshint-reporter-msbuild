@@ -1,6 +1,6 @@
 {
     "name": "lesshint-reporter-msbuild",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "MSBuild reporter for lesshint",
     "main": "index.js",
     "scripts": {
